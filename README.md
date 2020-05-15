@@ -15,3 +15,5 @@
 #### 2. CSS
 #### 3. JavaScript
 
+### Click the link to test out
+[Assessment 1](https://davesheinbein.github.io/unit-1-assessment/) or https://davesheinbein.github.io/unit-1-assessment/
